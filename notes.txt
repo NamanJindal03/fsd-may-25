@@ -1,0 +1,32 @@
+1. mkdir -> make directory (folder)
+2. pwd -> present work directory -> 
+    the path in my system where I am currently located
+3. cd -> change directory -> going into a folder structure
+4. cd .. -> come out of the folder structure 
+5. ls -> list items in the current directory
+    ls -a -> show all files even the hidden files
+6. touch -> creates a new file
+7. rm -> remove files
+8. rmdir -> remove a directory
+9. rm -r -> remove a direcotry revursively
+
+flags -> optional things which you can enable
+
+
+vim -> 
+    1. i -> insert 
+    2. esc to exit insert 
+    3. :wq -> write and quite
+    4. :q -> to just quite
+    5. :qa! -> forcefully quit without saving 
+
+nano -> alternative to vim -> 
+
+talked about grep and its usecase along with flag explorations
+
+1. Local setup
+    a. initialised git on local repo -> git init 
+    b. git add . (. means all)
+
+2. Remote setup
+    a. I established a new repo called as fsd-may-git
